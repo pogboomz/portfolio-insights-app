@@ -3,4 +3,4 @@ pandas
 numpy
 yfinance
 matplotlib
-plotly
+plotly==5.18.0
