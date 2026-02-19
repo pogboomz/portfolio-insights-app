@@ -1,13 +1,13 @@
-# 📈 Quantitative Portfolio Management System
+# 📈 Equilty Investment Insights Application
 
-An interactive Streamlit dashboard for stock analysis, portfolio tracking, and risk-adjusted performance evaluation.
+An Unified Dashboard to Track All My Investemnets in different Demat Accounts.
 
 Built by Sayantan Ghosh  
-Senior Analyst – Data & Analytics | Statistics Graduate
+Senior Analyst – Data & Analytics | PwC India | Statistics Graduate
 
 ---
 
-## 🚀 Live App
+## Live App Link
 
 🔗 https://portfolio-insights-app-9bqxngqczvnku3ttqyokxi.streamlit.app/  
 
@@ -15,15 +15,12 @@ Senior Analyst – Data & Analytics | Statistics Graduate
 
 ## 📊 Overview
 
-This project implements a quantitative investing framework that:
+This project Keeps a Snapshot of all of My Equity Investments:
 
-- Tracks transaction-based portfolio performance  
-- Fetches real-time stock data (yfinance)  
-- Computes risk metrics (Sharpe Ratio, Max Drawdown, CAGR)  
-- Applies trend-based buy/sell logic  
-- Compares strategy vs Buy & Hold  
+- Visual transaction-based portfolio performance  
+- Fetches real-time stock data (yfinance)    
+- Live Portfolio Valuation
 
-The system is designed as a foundation for systematic investing and quantitative asset management research.
 
 ---
 
@@ -36,6 +33,12 @@ The system is designed as a foundation for systematic investing and quantitative
 - yfinance  
 - Plotly / Matplotlib  
 
----
 
-## 📂 Structure
+
+## Future Improvements
+
+- Buy/sell/hold recommendations
+- Ticker Insights and News
+- portfolio Optimisation Recomendation
+
+
