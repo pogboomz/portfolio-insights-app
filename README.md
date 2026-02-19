@@ -9,7 +9,7 @@ Senior Analyst – Data & Analytics | Statistics Graduate
 
 ## 🚀 Live App
 
-🔗 https://your-streamlit-link.streamlit.app  
+🔗 https://portfolio-insights-app-9bqxngqczvnku3ttqyokxi.streamlit.app/  
 
 ---
 
